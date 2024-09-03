@@ -1,14 +1,11 @@
-
-export const pageName = "Assembly Plant";
-export const primaryColor = "#000000";
-export const backgroundColor = "#FFFFFF";
+export const pageName = 'Assembly Plant';
+export const primaryColor = 'rgb(99,119,127)';
+export const backgroundColor = 'rgb(99,119,127)';
 export const makeClearBackground = (color) => {
   return {
     backgroundColor: color,
-  }
-}
-
-
+  };
+};
 
 export const navData = [
   {
